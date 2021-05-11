@@ -5,7 +5,7 @@ import Cart from './CartPage'
 import Checkout from './CheckoutPage'
 import SingleProduct from './SingleProductPage'
 import Error from './ErrorPage'
-import Private from './PrivateRoute'
+import PrivateRoute from './PrivateRoute'
 import Products from './ProductsPage'
 
 export {
@@ -14,7 +14,7 @@ export {
   SingleProduct,
   Checkout,
   Error,
-  Private,
+  PrivateRoute,
   About,
   AuthWrapper,
   Cart,

@@ -1,22 +1,7 @@
 ## Notes
 
-#### Older React Version
+## ネットショップデモサイト with React
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+### チュートリアル
 
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE
+[React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/)
